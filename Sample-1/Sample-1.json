@@ -1,0 +1,78 @@
+{
+    "Background": {
+        "Image": {
+            "Y": 0,
+            "X": 0,
+            "ImageIndex": 0
+        }
+    },
+    "Time": {
+        "Hours": {
+            "Tens": {
+                "Y": 2,
+                "X": 2,
+                "ImageIndex": 100,
+                "ImagesCount": 10
+            },
+            "Ones": {
+                "Y": 2,
+                "X": 149,
+                "ImageIndex": 100,
+                "ImagesCount": 1
+            }
+        },
+        "Minutes": {
+            "Tens": {
+                "Y": 102,
+                "X": 2,
+                "ImageIndex": 100,
+                "ImagesCount": 10
+            },
+            "Ones": {
+                "Y": 102,
+                "X": 149,
+                "ImageIndex": 100,
+                "ImagesCount": 10
+            }
+        },
+        "Seconds": {
+            "Tens": {
+                "Y": 0,
+                "X": 0,
+                "ImageIndex": 100,
+                "ImagesCount": 10
+            },
+            "Ones": {
+                "Y": 0,
+                "X": 0,
+                "ImageIndex": 100,
+                "ImagesCount": 10
+            }
+        },
+        "AmPm": {
+            "Y": 159,
+            "X": 78,
+            "ImageIndexAm": 110,
+            "ImageIndexPm": 111
+        },
+        "DrawingOrder": "1234"
+    },
+    "Battery": {
+        "Text": {
+            "TopLeftX": 74,
+            "TopLeftY": 88,
+            "BottomRightX": 99,
+            "BottomRightY": 98,
+            "Alignment": "Center",
+            "Spacing": 2,
+            "ImageIndex": 130,
+            "ImagesCount": 10
+        },
+        "Icon": {
+            "X": 78,
+            "Y": 75,
+            "ImageIndex": 360,
+            "ImagesCount": 6
+        }
+    }
+}
